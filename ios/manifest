@@ -1,0 +1,19 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: arm64 x86_64
+mac: true
+description: ti.listviewextension
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2022 by Your Company
+
+# these should not be edited
+name: ti.listviewextension
+moduleid: ti.listviewextension
+guid: 5fe5264a-6256-4e91-9751-c3a14386bf09
+platform: iphone
+minsdk: 10.0.0
