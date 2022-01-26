@@ -27,7 +27,7 @@ https://titaniumsdk.com/api/titanium/ui/listview.html
 
 ## additional event listener
 
-* `scroll ` - returns current contentOffset and contentSize (fires as long the listView is scrolling - in cotrast to 'scrolling' which is only fired when the users ends dragging
+* `scroll ` - returns current contentOffset and contentSize (fires as long the listView is scrolling - in contrast to 'scrolling' which is only fired when the users ends dragging
 
 ## additional method
 
